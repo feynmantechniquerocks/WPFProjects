@@ -1,0 +1,19 @@
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.exe
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.deps.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.runtimeconfig.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.runtimeconfig.dev.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\bin\Debug\netcoreapp3.1\WPF Grid - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.csprojAssemblyReference.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application_MarkupCompile.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application_MarkupCompile.lref
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.g.resources
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.AssemblyInfoInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.AssemblyInfo.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[1] WPF Grid\WPF Grid - Sample Application\obj\Debug\netcoreapp3.1\WPF Grid - Sample Application.genruntimeconfig.cache

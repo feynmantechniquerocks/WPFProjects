@@ -1,0 +1,19 @@
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.csprojAssemblyReference.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application_MarkupCompile.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application_MarkupCompile.lref
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.exe
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.deps.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.runtimeconfig.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.runtimeconfig.dev.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\bin\Debug\netcoreapp3.1\WPF Listbox - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.g.resources
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.AssemblyInfoInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.AssemblyInfo.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[2] WPF Listbox\WPF Listbox - Sample Application\obj\Debug\netcoreapp3.1\WPF Listbox - Sample Application.genruntimeconfig.cache

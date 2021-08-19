@@ -1,0 +1,55 @@
+﻿<Window x:Class="WPF_Listbox___Sample_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Listbox___Sample_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0"
+  		         Margin="3" 
+  		         x:Name="britishRulers"   
+                 HorizontalContentAlignment="Stretch" 
+                 SelectionChanged="britishRulers_SelectionChanged">
+        </ListBox>
+
+        <StackPanel Grid.Column="1">
+            <Image x:Name="Image" Width="150" Height="200" Margin="3" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" x:Name="Description" Visibility="Hidden">
+                    <TextBlock Text="Name" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="Reign Name" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="House" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="Birth" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="Death" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="Predecessor" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock Text="Successor" Margin="3" FontWeight="SemiBold" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <TextBlock x:Name="Name" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="reignName" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="House" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="Birth" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="Death" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="Predecessor" Margin="3" FontWeight="SemiBold" />
+                    <TextBlock x:Name="Successor" Margin="3" FontWeight="SemiBold" />
+                </StackPanel>
+            </Grid>
+
+        </StackPanel>
+    </Grid>
+</Window>

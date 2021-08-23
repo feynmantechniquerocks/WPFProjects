@@ -1,0 +1,19 @@
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.exe
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.deps.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.runtimeconfig.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.runtimeconfig.dev.json
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\bin\Debug\netcoreapp3.1\WPF Style - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.csprojAssemblyReference.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application_MarkupCompile.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application_MarkupCompile.lref
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.g.resources
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.AssemblyInfoInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.AssemblyInfo.cs
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.dll
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.pdb
+C:\Users\Mert Kazanci\Desktop\WPFProjects\[4] WPF Styles\WPF Style - Sample Application\obj\Debug\netcoreapp3.1\WPF Style - Sample Application.genruntimeconfig.cache

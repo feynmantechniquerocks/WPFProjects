@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPF_Style___Sample_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Style___Sample_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+
+
+
+    <Grid>
+        <!-- I want all of my controls to be stacked vertically so I use a StackPanel -->
+        <StackPanel Width="400">
+            <ComboBox>
+                <ComboBoxItem Content="First item" />
+                <ComboBoxItem Content="Second item" />
+                <ComboBoxItem Content="Third item" />
+            </ComboBox>
+            <Button Content="This is a default button."></Button>
+            <TextBlock Text="This is a default TextBlock"></TextBlock>
+        </StackPanel>
+
+        
+
+    </Grid>
+</Window>

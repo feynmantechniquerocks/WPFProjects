@@ -1,0 +1,25 @@
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.csprojAssemblyReference.cache
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins_MarkupCompile.cache
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins_MarkupCompile.lref
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.exe
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.deps.json
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.runtimeconfig.json
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.runtimeconfig.dev.json
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism Begins.pdb
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.g.resources
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.AssemblyInfoInputs.cache
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.AssemblyInfo.cs
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.csproj.CopyComplete
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.dll
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.pdb
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Prism Begins.genruntimeconfig.cache
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Views\ShellWindow.g.cs
+C:\Users\Mert Kazanci\Desktop\Prism Tutorial\Prism Begins\obj\Debug\netcoreapp3.1\Views\ShellWindow.baml
